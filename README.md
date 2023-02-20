@@ -20,9 +20,9 @@ A simple website where payment gateway is integrated.
 
 
 ## 🔗 Links
-[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://payment-getway-system.netlify.app/)
+[![Website shields.io]([https://img.shields.io/website-up-down-green-red/http/shields.io.svg](https://icons8.com/icon/106567/github))](https://payment-getway-system.netlify.app/)
 
-[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://github.com/Ashish-kumar-Nayak-159/PAYMENT-GETWAY.git)
+[![gitHub](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://github.com/Ashish-kumar-Nayak-159/PAYMENT-GETWAY.git)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-kumar-nayak-153789183)
 
